@@ -7,7 +7,9 @@ Al abrir el archivo descargable, apareceran los siguientes archivos dentro de la
 ![image](https://user-images.githubusercontent.com/107152796/172952280-992a9fb0-9b2f-441b-9626-7aef54128175.png)
 
 
-Se debe ejecutar el archivo calculadora_full.py
+Se debe ejecutar el archivo calculadora_full.py.
+
+OJO: Es necesario que el archivo calculadora_full.py este incluida en el mismo directorio que los otros archivos .py que aparecen en la imagen. Recomendamos mantenerlos en la carpeta en la que vienen por defecto
 
 Al ejecutar el archivo, el usuario sera bienvenido con la siguiente pantalla:
 ![image](https://user-images.githubusercontent.com/107152796/172952617-007c42e6-f40a-479d-859a-2ecc1eb0b3a5.png)
